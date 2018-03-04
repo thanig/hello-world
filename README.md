@@ -1,2 +1,3 @@
 # hello-world
-First project
+
+This is a experimental project for google cloud platform
